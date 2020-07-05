@@ -13,8 +13,8 @@ public class AopTest {
 
         iAccountService.saveAccount();
 
-        iAccountService.updateAccount(2);
-
-        iAccountService.deleteAccount();
+//        iAccountService.updateAccount(2);
+//
+//        iAccountService.deleteAccount();
     }
 }
